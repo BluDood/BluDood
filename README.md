@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BluDood
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning video games
+- 💞️ I’m looking to collaborate on video games
+- 📫 How to reach me: video games
