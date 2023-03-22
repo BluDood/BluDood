@@ -20,7 +20,7 @@ I'm BluDood, a 15 year old full-stack developer based in Norway :norway:
 - Insomnia
 - bash / zsh / PowerShell
 
-## My projects
+## My projects 💼
 ### [BluBot](https://github.com/BluDood/BluBot)
 Multi-purpose Discord bot
 
