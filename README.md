@@ -2,27 +2,24 @@
 I'm BluDood, a 15 year old full-stack developer based in Norway :norway:
 
 ## My skills / tools :hammer:
-- JavaScript
-  - Node.js
-  - React
-    - React Router
-    - Vite
-  - React Native
-    - Expo
-  - express.js
-  - discord.js
-- Docker
-  - docker-compose
-- MongoDB
-- NGINX
-- Git
-- Visual Studio Code
-- Insomnia
-- bash / zsh / PowerShell
+### Languages
+![](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,md)
+
+### Frameworks
+![](https://skillicons.dev/icons?i=react,nextjs,electron,express,discord)
+
+### Services
+![](https://skillicons.dev/icons?i=mongodb,docker,cloudflare,nginx,githubactions)
+
+### Tools
+![](https://skillicons.dev/icons?i=vscode,nodejs,vite,linux,raspberrypi,git,bash,powershell)
 
 ## My projects 💼
 ### [BluBot](https://github.com/BluDood/BluBot)
 Multi-purpose Discord bot
+
+### [BluBlog](https://blog.bludood.com)
+My personal blog
 
 ### [BluDood Accounts](https://accounts.bludood.com)
 Complete account system for my projects
