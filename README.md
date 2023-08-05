@@ -32,6 +32,6 @@ My personal API serving my current activities
 ## Contact Info :envelope:
 - **Website:** [bludood.com](https://bludood.com)
 - **Email:** [bludood@bludood.com](mailto:bludood@bludood.com)
-- **Discord:** BluDood#0001 | [Discord Server](https://discord.bludood.com)
+- **Discord:** @bludood | [Discord Server](https://discord.bludood.com)
 - **Twitter:** [@ItsBluDood](https://twitter.com/ItsBluDood)
 - **Mastodon:** [@bludood@bludood.com](https://mastodon.bludood.com/@bludood)
