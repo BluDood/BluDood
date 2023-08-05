@@ -1,5 +1,5 @@
 # :wave: gm
-I'm BluDood, a 15 year old full-stack developer based in Norway :norway:
+I'm BluDood, a 16 year old full-stack developer based in Norway :norway:
 
 ## My skills / tools :hammer:
 ### Languages
@@ -9,7 +9,7 @@ I'm BluDood, a 15 year old full-stack developer based in Norway :norway:
 ![](https://skillicons.dev/icons?i=react,nextjs,electron,express,discord)
 
 ### Services
-![](https://skillicons.dev/icons?i=mongodb,docker,cloudflare,nginx,githubactions)
+![](https://skillicons.dev/icons?i=prisma,mongodb,docker,cloudflare,nginx,githubactions)
 
 ### Tools
 ![](https://skillicons.dev/icons?i=vscode,nodejs,vite,linux,raspberrypi,git,bash,powershell)
