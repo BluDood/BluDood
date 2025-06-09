@@ -1,5 +1,5 @@
 # :wave: gm
-I'm BluDood, a 17 year old full-stack developer from Norway :norway:
+I'm BluDood, an 18 year old full-stack developer from Norway :norway:
 
 ## My skills / tools :hammer:
 ### Languages
