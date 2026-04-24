@@ -10,7 +10,7 @@ I'm BluDood, an 18 year old full-stack developer from Norway :norway:
 ![](https://skillicons.dev/icons?i=ts,js,cs,cpp,html,css)
 
 ### Frameworks + Libraries
-![](https://skillicons.dev/icons?i=svelte,react,express,prisma,electron,dotnet,discordjs)
+![](https://skillicons.dev/icons?i=svelte,express,dotnet,react,prisma,electron,discordjs)
 
 ### Runtime + Tooling + Infra
 ![](https://skillicons.dev/icons?i=nodejs,deno,bun,vite,nginx,docker,debian)
