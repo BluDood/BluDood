@@ -2,17 +2,24 @@
 I'm BluDood, an 18 year old full-stack developer from Norway :norway:
 
 ## My skills / tools :hammer:
+### Tech Stack (STPEND™)
+![](https://skillicons.dev/icons?i=svelte,ts,prisma,express,nodejs,docker)
+###### because naming things is hard
+
 ### Languages
-![](https://skillicons.dev/icons?i=html,css,ts,py,cpp)
+![](https://skillicons.dev/icons?i=ts,js,cs,cpp,html,css)
 
-### Frameworks
-![](https://skillicons.dev/icons?i=svelte,react,electron,express,discord)
+### Frameworks + Libraries
+![](https://skillicons.dev/icons?i=svelte,react,express,prisma,electron,dotnet,discordjs)
 
-### Services
-![](https://skillicons.dev/icons?i=prisma,mongodb,docker,cloudflare,nginx,githubactions)
+### Runtime + Tooling + Infra
+![](https://skillicons.dev/icons?i=nodejs,deno,bun,vite,nginx,docker,debian)
 
-### Tools
-![](https://skillicons.dev/icons?i=vscode,nodejs,vite,linux,raspberrypi,git,bash,powershell)
+### Cloud Services
+![](https://skillicons.dev/icons?i=cloudflare,azure,supabase,netlify,githubactions)
+
+### Development Tools
+![](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,postman)
 
 ## Contact Info :envelope:
 - **Website:** [bludood.com](https://bludood.com)
